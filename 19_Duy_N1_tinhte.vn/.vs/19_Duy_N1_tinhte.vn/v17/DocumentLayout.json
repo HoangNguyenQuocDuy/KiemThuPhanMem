@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KTPM\\19_Duy_N1_tinhte.vn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A00FC3C6-77CB-4D7D-8B11-8B313B137DAF}|19_Duy_N1_tinhte.vn\\19_Duy_N1_tinhte.vn.csproj|D:\\KTPM\\19_Duy_N1_tinhte.vn\\19_duy_n1_tinhte.vn\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A00FC3C6-77CB-4D7D-8B11-8B313B137DAF}|19_Duy_N1_tinhte.vn\\19_Duy_N1_tinhte.vn.csproj|solutionrelative:19_duy_n1_tinhte.vn\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DE0FC7E-8B1F-471A-8AB1-3A95CD31C25A}|19_Duy_Test\\19_Duy_Test.csproj|d:\\ktpm\\19_duy_n1_tinhte.vn\\19_duy_test\\testtinhtevn_19_duy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DE0FC7E-8B1F-471A-8AB1-3A95CD31C25A}|19_Duy_Test\\19_Duy_Test.csproj|solutionrelative:19_duy_test\\testtinhtevn_19_duy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A00FC3C6-77CB-4D7D-8B11-8B313B137DAF}|19_Duy_N1_tinhte.vn\\19_Duy_N1_tinhte.vn.csproj|D:\\KTPM\\19_Duy_N1_tinhte.vn\\19_duy_n1_tinhte.vn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A00FC3C6-77CB-4D7D-8B11-8B313B137DAF}|19_Duy_N1_tinhte.vn\\19_Duy_N1_tinhte.vn.csproj|solutionrelative:19_duy_n1_tinhte.vn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A00FC3C6-77CB-4D7D-8B11-8B313B137DAF}|19_Duy_N1_tinhte.vn\\19_Duy_N1_tinhte.vn.csproj|D:\\KTPM\\19_Duy_N1_tinhte.vn\\19_duy_n1_tinhte.vn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A00FC3C6-77CB-4D7D-8B11-8B313B137DAF}|19_Duy_N1_tinhte.vn\\19_Duy_N1_tinhte.vn.csproj|solutionrelative:19_duy_n1_tinhte.vn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A00FC3C6-77CB-4D7D-8B11-8B313B137DAF}|19_Duy_N1_tinhte.vn\\19_Duy_N1_tinhte.vn.csproj|D:\\KTPM\\19_Duy_N1_tinhte.vn\\19_duy_n1_tinhte.vn\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A00FC3C6-77CB-4D7D-8B11-8B313B137DAF}|19_Duy_N1_tinhte.vn\\19_Duy_N1_tinhte.vn.csproj|solutionrelative:19_duy_n1_tinhte.vn\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A00FC3C6-77CB-4D7D-8B11-8B313B137DAF}|19_Duy_N1_tinhte.vn\\19_Duy_N1_tinhte.vn.csproj|D:\\KTPM\\19_Duy_N1_tinhte.vn\\19_duy_n1_tinhte.vn\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A00FC3C6-77CB-4D7D-8B11-8B313B137DAF}|19_Duy_N1_tinhte.vn\\19_Duy_N1_tinhte.vn.csproj|solutionrelative:19_duy_n1_tinhte.vn\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "D:\\KTPM\\19_Duy_N1_tinhte.vn\\19_Duy_N1_tinhte.vn\\Triangle.cs",
+              "RelativeDocumentMoniker": "19_Duy_N1_tinhte.vn\\Triangle.cs",
+              "ToolTip": "D:\\KTPM\\19_Duy_N1_tinhte.vn\\19_Duy_N1_tinhte.vn\\Triangle.cs",
+              "RelativeToolTip": "19_Duy_N1_tinhte.vn\\Triangle.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwA0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T14:45:37.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\KTPM\\19_Duy_N1_tinhte.vn\\19_Duy_N1_tinhte.vn\\Program.cs",
+              "RelativeDocumentMoniker": "19_Duy_N1_tinhte.vn\\Program.cs",
+              "ToolTip": "D:\\KTPM\\19_Duy_N1_tinhte.vn\\19_Duy_N1_tinhte.vn\\Program.cs",
+              "RelativeToolTip": "19_Duy_N1_tinhte.vn\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T10:41:05.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Post.cs",
+              "DocumentMoniker": "D:\\KTPM\\19_Duy_N1_tinhte.vn\\19_Duy_N1_tinhte.vn\\Post.cs",
+              "RelativeDocumentMoniker": "19_Duy_N1_tinhte.vn\\Post.cs",
+              "ToolTip": "D:\\KTPM\\19_Duy_N1_tinhte.vn\\19_Duy_N1_tinhte.vn\\Post.cs",
+              "RelativeToolTip": "19_Duy_N1_tinhte.vn\\Post.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAADwv0QAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T10:40:56.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\KTPM\\19_Duy_N1_tinhte.vn\\19_Duy_N1_tinhte.vn\\Login.cs",
+              "RelativeDocumentMoniker": "19_Duy_N1_tinhte.vn\\Login.cs",
+              "ToolTip": "D:\\KTPM\\19_Duy_N1_tinhte.vn\\19_Duy_N1_tinhte.vn\\Login.cs",
+              "RelativeToolTip": "19_Duy_N1_tinhte.vn\\Login.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwCUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T09:52:45.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestTinhTeVN_19_Duy.cs",
+              "DocumentMoniker": "D:\\KTPM\\19_Duy_N1_tinhte.vn\\19_Duy_Test\\TestTinhTeVN_19_Duy.cs",
+              "RelativeDocumentMoniker": "19_Duy_Test\\TestTinhTeVN_19_Duy.cs",
+              "ToolTip": "D:\\KTPM\\19_Duy_N1_tinhte.vn\\19_Duy_Test\\TestTinhTeVN_19_Duy.cs",
+              "RelativeToolTip": "19_Duy_Test\\TestTinhTeVN_19_Duy.cs",
+              "ViewState": "AQIAAMAAAAAAAAAAAAAQwOAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T04:41:34.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\KTPM\\19_Duy_N1_tinhte.vn\\19_Duy_N1_tinhte.vn\\Form1.cs",
+              "RelativeDocumentMoniker": "19_Duy_N1_tinhte.vn\\Form1.cs",
+              "ToolTip": "D:\\KTPM\\19_Duy_N1_tinhte.vn\\19_Duy_N1_tinhte.vn\\Form1.cs [Design]",
+              "RelativeToolTip": "19_Duy_N1_tinhte.vn\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T04:36:34.226Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

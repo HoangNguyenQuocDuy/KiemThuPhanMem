@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19_Duy_N1_tinhte.vn", "19_Duy_N1_tinhte.vn\19_Duy_N1_tinhte.vn.csproj", "{A00FC3C6-77CB-4D7D-8B11-8B313B137DAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19_Duy_Test", "19_Duy_Test\19_Duy_Test.csproj", "{4DE0FC7E-8B1F-471A-8AB1-3A95CD31C25A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A00FC3C6-77CB-4D7D-8B11-8B313B137DAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A00FC3C6-77CB-4D7D-8B11-8B313B137DAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A00FC3C6-77CB-4D7D-8B11-8B313B137DAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A00FC3C6-77CB-4D7D-8B11-8B313B137DAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DE0FC7E-8B1F-471A-8AB1-3A95CD31C25A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DE0FC7E-8B1F-471A-8AB1-3A95CD31C25A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DE0FC7E-8B1F-471A-8AB1-3A95CD31C25A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DE0FC7E-8B1F-471A-8AB1-3A95CD31C25A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C66BF6E7-3158-4D22-BF0D-1892523B3345}
+	EndGlobalSection
+EndGlobal
